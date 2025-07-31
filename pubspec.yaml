@@ -1,7 +1,7 @@
 name: totp_generator
 description: A flexible and easy-to-use Time-based One-Time Password (TOTP) generator for Dart and Flutter applications. This package supports multiple hash algorithms and secret encodings, making it compatible with most TOTP implementations.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/AscEmon/totp_generator
 
 environment:
   sdk: ^3.7.2
